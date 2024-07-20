@@ -1,5 +1,5 @@
 import os,platform
-os.system('git pull')
+
 os.system("clear")
 print('\033[92;1m Join Subscribe My Youtube Channel')
 os.system('xdg-open https://www.youtube.com/@zombieyt155')
